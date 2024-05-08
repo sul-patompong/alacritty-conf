@@ -1,16 +1,16 @@
-import = ["~/.config/alacritty/catppuccin-mocha.toml"]
+import = ["~/.config/alacritty/catppuccin-macchiato.toml"]
 
 [env]
 TERM = "xterm-256color"
 
 [font]
-normal = { family = "IosevkaNerdFontMono", style = "Regular" }
-bold = { family = "IosevkaNerdFontMono", style = "Bold" }
-italic = { family = "IosevkaNerdFontMono", style = "Italic" }
-size = 12
+normal = { family = "IosevkaTerm Nerd Font Mono", style = "Light" }
+bold = { family = "IosevkaTerm Nerd Font Mono", style = "Bold" }
+italic = { family = "IosevkaTerm Nerd Font Mono", style = "Italic" }
+size = 16
 
 [colors]
 transparent_background_colors = true
 
 [window]
-opacity = 0.985
+opacity = 0.95
