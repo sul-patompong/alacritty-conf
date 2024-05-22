@@ -14,3 +14,5 @@ transparent_background_colors = true
 
 [window]
 opacity = 0.80
+blur = true
+decorations = "Buttonless"
